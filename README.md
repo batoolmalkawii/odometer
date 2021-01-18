@@ -1,4 +1,5 @@
-PR: https://github.com/batoolmalkawii/odometer/pull/1
+*PR:* https://github.com/batoolmalkawii/odometer/pull/2
+
 
 # Getting Started with Create React App
 
